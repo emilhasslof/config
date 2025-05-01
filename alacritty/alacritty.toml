@@ -1,0 +1,16 @@
+
+[font]
+size = 16
+
+[window]
+dimensions = { columns = 140, lines = 45 }
+position = { x = 94, y = 30 }
+decorations = "buttonless"
+padding = { x = 8, y = 8 }
+dynamic_padding = true
+opacity = 1 
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/nordic.toml"
+]
