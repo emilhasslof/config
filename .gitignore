@@ -1,0 +1,7 @@
+# Ignore everything
+/gcloud
+/karabiner/automatic_backups
+/github-copilot/hosts.json
+/github-copilot
+/karabiner
+/raycast
