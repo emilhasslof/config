@@ -1,0 +1,8 @@
+[
+  {
+    "bindings": {
+      "ctrl-j": "editor::ContextMenuNext",
+      "ctrl-k": "editor::ContextMenuPrev"
+    }
+  }
+]

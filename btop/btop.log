@@ -1,0 +1,40 @@
+
+2024/06/20 (14:00:53) | ===> btop++ v.1.3.2
+2024/06/20 (14:00:53) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2024/06/20 (14:03:06) | ===> btop++ v.1.3.2
+2024/06/20 (14:03:06) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2024/06/20 (14:03:19) | ===> btop++ v.1.3.2
+2024/06/20 (14:03:19) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2024/06/21 (00:50:30) | ===> btop++ v.1.3.2
+2024/06/21 (00:50:30) | WARNING: Failed to set locale UTF-8 continuing anyway.
+2024/06/21 (00:54:01) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/06/21 (00:54:07) | ===> btop++ v.1.3.2
+2024/06/21 (00:54:07) | WARNING: Failed to set locale UTF-8 continuing anyway.
+2024/06/21 (00:54:12) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/06/21 (00:54:15) | ===> btop++ v.1.3.2
+2024/06/21 (00:54:15) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2024/06/21 (00:56:08) | ===> btop++ v.1.3.2
+2024/06/21 (00:56:08) | WARNING: Failed to set locale UTF-8 continuing anyway.
+2024/06/21 (00:56:18) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2024/06/21 (00:56:22) | ===> btop++ v.1.3.2
+2024/06/21 (00:56:22) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2024/06/30 (15:29:01) | ===> btop++ v.1.3.2
+2024/06/30 (15:29:01) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2024/07/06 (16:25:38) | ===> btop++ v.1.3.2
+2024/07/06 (16:25:38) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2024/10/29 (13:07:20) | ===> btop++ v.1.4.0
+2024/10/29 (13:07:20) | WARNING: Failed to set locale en_SE.UTF-8 continuing anyway.
+2024/10/29 (13:07:20) | WARNING: Failed to set locale UTF-8 continuing anyway.
+
+2025/04/29 (17:19:43) | ===> btop++ v.1.4.0
+2025/04/29 (17:19:43) | WARNING: Failed to set locale UTF-8 continuing anyway.
